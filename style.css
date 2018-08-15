@@ -444,9 +444,9 @@ img {
         .subscribe-newsletter-area .modal-content .modal-body .newsletterForm input:focus {
           border: 1px solid #FFC7B9; }
       .subscribe-newsletter-area .modal-content .modal-body .newsletterForm button[type="submit"] {
-        background-color: #FFC7B9; }
+        background-color: #ffffff; }
         .subscribe-newsletter-area .modal-content .modal-body .newsletterForm button[type="submit"]:hover {
-          background-color: #30336b;
+          background-color: #C1E5DF;
           color: #FFC7B9; }
 .subscribe-newsletter-area .close {
   position: absolute;
